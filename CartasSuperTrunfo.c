@@ -110,6 +110,6 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos2);
     printf("densidade populacional:%f hab /km2\n", densidadepopulacional2);
     printf("pib per capita: %f reais", pibperCapita2);
-
+// fim do programa
     return 0;
 }
